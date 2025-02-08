@@ -1,0 +1,5 @@
+payload:
+  - 'zeptodev.com'
+  - '*.zeptodev.com'
+  - '+.zeptodev.com'
+  - '*.*.zeptodev.com'
